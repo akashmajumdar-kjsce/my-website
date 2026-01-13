@@ -15,3 +15,4 @@ toggleBtn.addEventListener("click", () => {
 if (localStorage.getItem("theme") === "light") {
     document.body.classList.add("light-theme");
 }
+
